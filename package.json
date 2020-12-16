@@ -1,0 +1,27 @@
+{
+  "name": "barnamenegar_mysql_orm",
+  "version": "1.0.0",
+  "description": "mysql orm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirhoseingorji/barnamenegar_mysql_orm.git"
+  },
+  "keywords": [
+    "orm",
+    "mysql"
+  ],
+  "author": "amirhosein.gorji@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirhoseingorji/barnamenegar_mysql_orm/issues"
+  },
+  "homepage": "https://github.com/amirhoseingorji/barnamenegar_mysql_orm#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "socksjs": "^0.5.0"
+  }
+}
